@@ -1,0 +1,8 @@
+paper_title: A Brg1-Rme1 circuit in Candida albicans hyphal gene regulation
+doi: https://doi.org/10.1128/mbio.01872-24
+data_source: "SRA: SRP434494"
+domain: rna_seq
+ref_genome: C_albicans_SC5314 (GCA000182965v3)
+tools: [fastqc, star, featureCounts 2.0.4, DESeq2 1.40.2]
+estimated_runtime_minutes: 5
+estimated_time_for_human: 50
